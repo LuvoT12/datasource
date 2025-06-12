@@ -1,0 +1,13 @@
+{
+  "portals": [
+    {
+      "id": 1,
+      "name": "PashutTV",
+      "url": "http://pashuttv.com"
+    }
+  ],
+  "intro_url": "",
+  "message_one": "ברוך הבא",
+  "message_two": "",
+  "message_three": ""
+}
